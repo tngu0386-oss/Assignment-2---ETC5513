@@ -1,0 +1,15 @@
+---
+title: "ETC5513 - Assignment 2"
+format: html
+editor: visual
+execute:
+  output: true 
+---
+
+```{r}
+
+```
+
+```{r}
+
+```
